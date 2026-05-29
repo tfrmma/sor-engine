@@ -1,0 +1,76 @@
+# Build directories
+build/
+build-*/
+cmake-build-*/
+out/
+bin/
+dist/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled binaries and objects
+*.o
+*.obj
+*.exe
+*.out
+*.app
+sor_example
+sor_example_san
+*.so
+*.a
+*.lib
+
+# Debug / Sanitizer files
+core
+core.*
+*.core
+asan.log*
+ubsan.log*
+
+# Performance / Profiling
+*.perf
+*.callgrind
+*.massif
+gmon.out
+cachegrind.out.*
+
+# Logs and temporary data
+*.log
+*.csv
+*.jsonl
+
+# Documentation / Generated
+html/
+doxygen/
+*.pdf
+
+# Miscellaneous
+*.bak
+*.tmp
+*.temp
+
+# Python / virtualenv (if you ever add scripts)
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# OS generated files
+Thumbs.db
