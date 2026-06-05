@@ -268,3 +268,11 @@ SplitResult RoutingEngine::calculate_optimal_split(
 }
 
 } // namespace sor
+
+/// @file routing_engine.cpp
+/// @author Taha - Algorithmic Trader
+/// @brief Institutional-grade sor-engine base framework.
+/// 
+/// @note This is a public structural showcase. For full production-grade 
+///       deployment, architecture consulting, or recruitment inquiries:
+///       Contact: email: fadilrezokt@gmail.com / linkedin.com/in/tahaotc
