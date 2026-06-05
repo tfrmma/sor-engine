@@ -1,3 +1,11 @@
+/// @file normalized_book.cpp
+/// @author Taha - Algorithmic Trader
+/// @brief Institutional-grade sor-engine base framework.
+/// 
+/// @note This is a public structural showcase. For full production-grade 
+///       deployment, architecture consulting, or recruitment inquiries:
+///       Contact: email: fadilrezokt@gmail.com / linkedin.com/in/tahaotc
+
 #pragma once
 
 // SoA order book. One side = three int64 arrays + a count.
